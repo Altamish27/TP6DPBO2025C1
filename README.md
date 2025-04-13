@@ -1,6 +1,6 @@
 ## Saya Hasbi Haqqul Fikri dengan NIM 2309245 mengerjakan soal TP 6 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
-# Aplikasi Flappy Bird Java Swing (TP6 DPBO)
+# Aplikasi Flappy Bird (TP6 DPBO)
 
 ## Deskripsi
 Aplikasi ini merupakan implementasi permainan klasik **Flappy Bird** yang dibangun menggunakan **Java Swing** sebagai antarmuka grafis. Pemain mengendalikan seekor burung yang harus melewati rintangan berupa pipa tanpa menyentuhnya. Game ini terdiri dari tampilan main menu dan gameplay utama. Proyek ini dibuat sebagai Tugas Praktikum 5 dalam mata kuliah **Dasar Pemrograman Berorientasi Objek (DPBO)**.
